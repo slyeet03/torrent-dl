@@ -1,0 +1,7 @@
+BeautifulSoup or bs4
+pyperclip
+requests
+re
+selenium
+time
+qbittorrent
