@@ -21,3 +21,7 @@ Clone or download it from github and install all the requirements. You can insta
 ![CLI](screenshots/result_terminal.png)
 ![qbit](screenshots/result_qbit.png)
 
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
