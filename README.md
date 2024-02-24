@@ -15,8 +15,8 @@ A CLI agent for searching torrent and downloading it using qbittorrent.
 
 ### Setting up Qbittorent
 Open the WebUI setting page on qbittorrent
-![qbit_settings_open](qbit_settings_open.png)
-![qbit_webui](qbit_webui.png)
+![qbit_settings_open](screenshots/qbit_settings_open.png)
+![qbit_webui](screenshots/qbit_webui.png)
 
 1. Enable the Web User Interface(Remote Control) option.
 2. Set the username and password(by default it will be set to admin).
