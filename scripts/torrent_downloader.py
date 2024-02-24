@@ -4,7 +4,7 @@ from qbittorrent import Client
 qb= Client("http://127.0.0.1:8080/")
 
 # creds
-qb.login("slyeet03", "slyeet03@1")
+qb.login("admin", "password") # replace it with your user and password from qbittorrent
 
 # downloading torrent
 def torrent_download(magnet_link, output_path):

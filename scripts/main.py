@@ -1,7 +1,7 @@
 import magnet_link_finder
 import torrent_downloader
 
-output_path = "C:/Users/chitr/Desktop/torrents"
+output_path = "" # put your output directory in it
 
 def menu():
 	print("1)Search for torrent \n2)Exit")
