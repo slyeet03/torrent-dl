@@ -52,7 +52,7 @@ def search_result(soup, results, size):
 	# showing the results
 	for r,s in zip(results,size):
 		if counter < 20:
-			print(i,re.sub(r'[\W_]+', ' ', r.text[:49]))
+			print(i,re.sub(r'[\W_]+', ' ', r.text[:49]),s.text.replace("B","B, seedrs-"))
 			i += 1
 			counter += 1
 
