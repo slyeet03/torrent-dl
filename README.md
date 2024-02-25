@@ -30,14 +30,12 @@ Open the WebUI setting page on qbittorrent
 ### Setting up the output file
 1. Right click and open file `main.py` in your desired text editor, at line 4 put your desired output directory between the `" "`.
 2. Save the file.
-**
-Note: The qbittorent application need to be opened in background.
-**
 
 ### Screenshots
 ![CLI](screenshots/result_terminal.png)
 ![qbit](screenshots/result_qbit.png)
 
+## Note: The qbittorent application need to be opened in background.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
