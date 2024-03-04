@@ -35,8 +35,6 @@ Open the WebUI setting page on qbittorrent
 ![CLI](screenshots/result_terminal.png)
 ![qbit](screenshots/result_qbit.png)
 
-## Note: The qbittorent application must be running in background.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
