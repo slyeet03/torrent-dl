@@ -83,8 +83,8 @@ def getTorrent(choice_url):
 			b=link.get('href')
 			if re.match("^magnet:" ,b):
 				magnet_link=b
-				return magnet_link
 				driver.quit()
+				return magnet_link
 	else:
 		print("No magnet link found")
 		driver.quit()

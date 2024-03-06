@@ -17,7 +17,7 @@ def menu():
 			# extracting the magnet link
 			magnet_link = magnet_link_finder.search_torrent(query)
 			# downloading the torrent
-			torrent_downloader.torrent_download(magnet_link, output_path)
+			torrent_downloader.torrent_download(magnet_link, output_torrent_path)
 
 		except Exception as e:
 			print(e)
