@@ -1,4 +1,4 @@
-# Torrent Downloader CLI
+# torrent-dl
 
 A CLI agent for searching torrent and downloading it using qbittorrent.
 
